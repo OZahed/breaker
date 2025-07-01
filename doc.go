@@ -1,5 +1,4 @@
 /*
-breaker package provides a simple breaker implementation that receives http connection pool and
-returns a Breaker struct
+breaker package provides a simple circuit breaker implementation that can be used to wrap HTTP requests.
 */
 package breaker
